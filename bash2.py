@@ -1,2 +1,3 @@
 print('conflict merging')
-pirnt('new commit')
+print('new commit')
+print('111')
