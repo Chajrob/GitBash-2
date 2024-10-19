@@ -1,2 +1,2 @@
 print('conflict merging')
-pirnt('1commit')
+pirnt('new commit')
